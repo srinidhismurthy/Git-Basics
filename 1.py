@@ -1,5 +1,5 @@
 def sum_num(x,y):
-    pass
+    return x+y
 
 def mul_num(x,y):
     pass
