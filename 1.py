@@ -8,7 +8,13 @@ def sum_num(x,y):
     return x+y
 
 def mul_num(x,y):
-    pass
+    """
+    
+    :param x: 
+    :param y: 
+    :return:  Multiplication of the supplied numbers. 
+    """
+    return x*y
 
 def sub_num(x,y):
     pass
