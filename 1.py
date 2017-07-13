@@ -20,4 +20,10 @@ def sub_num(x,y):
     pass
 
 def div_num(x,y):
-    pass
+    """
+    
+    :param x: 
+    :param y: 
+    :return:  Devision of number x by number y
+    """
+    return x/y
