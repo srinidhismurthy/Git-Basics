@@ -17,7 +17,13 @@ def mul_num(x,y):
     return x*y
 
 def sub_num(x,y):
-    pass
+    """
+    Subtracts Number y from Number x
+    :param x: 
+    :param y: 
+    :return: 
+    """
+    return x-y
 
 def div_num(x,y):
     """
