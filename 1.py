@@ -7,6 +7,9 @@ def sum_num(x,y):
     """
     return x+y
 
+    #Sum_num Returns sum of x+y
+
+
 def mul_num(x,y):
     """
     
